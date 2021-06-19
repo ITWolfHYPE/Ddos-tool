@@ -1,1 +1,1 @@
-Script.js - is a raw ddos file
+Script.bat - is a raw ddos file
