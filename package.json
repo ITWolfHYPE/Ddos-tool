@@ -1,0 +1,16 @@
+{
+  "name": "ddos-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ddos.js",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "node-cmd": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ITWolf",
+  "license": "ISC"
+}

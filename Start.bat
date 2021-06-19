@@ -1,0 +1,1 @@
+Start cmd /k node ddos
